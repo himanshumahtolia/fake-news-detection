@@ -1,4 +1,4 @@
-#📰 Fake News Detection System
+# 📰 Fake News Detection System
 
 The Fake News Detection project is a machine learning-based system developed to automatically classify news as real or fake. It is designed to analyze either a news headline or a complete news article to determine its authenticity with enhanced accuracy. The project aims to combat misinformation by leveraging various supervised learning algorithms and natural language processing (NLP) techniques.
 
